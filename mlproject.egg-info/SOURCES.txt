@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.py
+mlproject/__init__.py
+mlproject/distance.py
+mlproject/lib.py
+mlproject.egg-info/PKG-INFO
+mlproject.egg-info/SOURCES.txt
+mlproject.egg-info/dependency_links.txt
+mlproject.egg-info/not-zip-safe
+mlproject.egg-info/top_level.txt
+mlproject/data/data.csv.gz
+scripts/mlproject-computedist
+scripts/mlproject-run
+tests/__init__.py
+tests/lib_test.py
